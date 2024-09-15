@@ -19,6 +19,12 @@ It uses a CSV file to manage user credentials and a SQL database for storing tod
 - **MySQL**: Database for storing todo items.
 - **Java**: Programming language used for the application.
 
+## Screenshots
+
+Here is a screenshot of the Todo application:
+
+![Todo Application Screenshot](src/main/resources/assets/project-image.png)
+
 ## Prerequisites
 
 - JDK 17 or higher
