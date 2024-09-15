@@ -23,7 +23,7 @@ It uses a CSV file to manage user credentials and a SQL database for storing tod
 
 Here is a screenshot of the Todo application:
 
-![Todo Application Screenshot](src/main/resources/assets/project-image.png)
+![Todo Application Screenshot](src/main/resources/assets/project-img.png)
 
 ## Prerequisites
 
