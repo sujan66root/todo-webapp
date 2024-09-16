@@ -1,4 +1,4 @@
-# Todo Web Application
+# To-do Web Application (Java Spring Boot & JSP)
 
 This is a Spring Boot web application for managing todos with user authentication and CRUD functionalities. 
 It uses a CSV file to manage user credentials and a SQL database for storing todo items.
